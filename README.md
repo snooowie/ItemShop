@@ -1,4 +1,4 @@
-CID_642_Athena_Commando_F_ConstellationStar, 1200
+CID_511_Athena_Commando_M_CubePaintWildCard, 800
 Pickaxe_ID_363_LollipopTricksterFemale, 800
 Pickaxe_ID_179_StarWand, 3500
 na
